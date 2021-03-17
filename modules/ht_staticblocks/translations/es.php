@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_0286ca1d148425fd832c7b8110239e2f'] = 'Bloques estáticos Hiddentechies';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_dfac35d14833b7482ed946b33c31cae6'] = 'Agrega bloques estáticos a cualquier gancho';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_0c3907a20b19912b532e991e2ee68be1'] = '¿Está seguro de que desea eliminar sus bloques estáticos?';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_20015706a8cbd457cbb6ea3e7d5dc9b3'] = 'Configuración actualizada';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_7f82c65d548588c8d5412463c182e450'] = 'No se pudo actualizar la configuración.';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_5d0108628fe6aaf7305ada9d5933381a'] = 'El bloque estático se ha guardado con éxito';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_cccff879b1f102fcd58f1fddeee96eb1'] = 'Bloque estático eliminado con éxito';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_803514529a69ec43c279974440ba4169'] = 'Bloquear elemento';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_b78a3223503896721cca1303f776159b'] = 'Título';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_b9b371458ab7c314f88b81c553f6ce51'] = 'Gancho';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_4c4ad5fca2e7a3f74dbb1ced00381aa4'] = 'HTML';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_ec53a8c4f07baed5d8825072c89799be'] = 'Estado';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Activado';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_b9f5c797ebbf55adccdd8539a65a0241'] = 'Discapacitado';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_c9cc8cce247e49bae79f15173ce97354'] = 'Salvar';
+$_MODULE['<{ht_staticblocks}prestashop>ht_staticblocks_630f6dc397fe74e52d5189e2c80f282b'] = 'Volver a la lista';
+$_MODULE['<{ht_staticblocks}prestashop>list_b682a33946c05de5eb03114655f17245'] = 'Lista de bloqueo estático';
+$_MODULE['<{ht_staticblocks}prestashop>list_b718adec73e04ce3ec720dd11a06a308'] = 'IDENTIFICACIÓN';
+$_MODULE['<{ht_staticblocks}prestashop>list_b78a3223503896721cca1303f776159b'] = 'Título';
+$_MODULE['<{ht_staticblocks}prestashop>list_b9b371458ab7c314f88b81c553f6ce51'] = 'Gancho';
+$_MODULE['<{ht_staticblocks}prestashop>list_ec53a8c4f07baed5d8825072c89799be'] = 'Estado';
+$_MODULE['<{ht_staticblocks}prestashop>list_004bf6c9a40003140292e97330236c53'] = 'Acción';
+$_MODULE['<{ht_staticblocks}prestashop>list_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Activado';
+$_MODULE['<{ht_staticblocks}prestashop>list_b9f5c797ebbf55adccdd8539a65a0241'] = 'Discapacitado';
+$_MODULE['<{ht_staticblocks}prestashop>list_7dce122004969d56ae2e0245cb754d35'] = 'Editar';
+$_MODULE['<{ht_staticblocks}prestashop>list_f2a6c498fb90ee345d997f888fce3b18'] = 'Borrar';
